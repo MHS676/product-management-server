@@ -10,6 +10,11 @@ app.use(cors());
 app.use(bodyParser.json());
 
 
+const categoryRoutes = require("./routes/categoryRoutes");
+const productRoutes = require("./routes/productRoutes");
+
+app.use("/categories", categoryRoutes);
+app.use("/products", productRoutes);
 
 
 connectDB();
