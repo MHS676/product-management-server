@@ -95,7 +95,7 @@ You can use query params:
 /products?search=alpha
 
 Database Design (MongoDB Schema)
-🙏 ![image alt]([https://drive.google.com/file/d/1nWiBdZ4sZEDT3QRTStHiiM85fEDnd1vW/view?usp=sharing](https://github.com/MHS676/product-management-server/blob/8b3e3247a51087480b1a7391fdc075fe02d1a1a8/Database%20Design%20(MongoDB%20Schema)%20(1).jpg))
+![image alt]([https://drive.google.com/file/d/1nWiBdZ4sZEDT3QRTStHiiM85fEDnd1vW/view?usp=sharing](https://github.com/MHS676/product-management-server/blob/8b3e3247a51087480b1a7391fdc075fe02d1a1a8/Database%20Design%20(MongoDB%20Schema)%20(1).jpg))
 
 This project was completed as part of a backend development challenge.
 
