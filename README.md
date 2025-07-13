@@ -33,29 +33,6 @@ Steps:
 For **"Alpha Sorter"**, result:  
 `p48asd4-0alport8`
 
----
-
-## 📁 Project Structure
-
-product-management-api/
-├── src/
-│ ├── app.js
-│ ├── config/
-│ │ └── db.js
-│ ├── controllers/
-│ │ ├── categoryController.js
-│ │ └── productController.js
-│ ├── models/
-│ │ ├── Category.js
-│ │ └── Product.js
-│ ├── routes/
-│ │ ├── categoryRoutes.js
-│ │ └── productRoutes.js
-│ └── services/
-│ └── productCodeGenerator.js
-├── .env
-├── package.json
-└── README.md
 
 
 ---
